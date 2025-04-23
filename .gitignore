@@ -1,6 +1,7 @@
 *.bundle.*
 lib/
 node_modules/
+data/congressional_record
 *.egg-info/
 .ipynb_checkpoints
 *.tsbuildinfo

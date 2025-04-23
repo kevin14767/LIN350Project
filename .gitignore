@@ -2,6 +2,7 @@
 lib/
 node_modules/
 data/congressional_record
+inclass_notebooks/
 *.egg-info/
 .ipynb_checkpoints
 *.tsbuildinfo

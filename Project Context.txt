@@ -1,0 +1,169 @@
+Project Context
+
+Course project requirements:
+
+    Initial project description:
+    This is a 1-2 page document (single-spaced, single column) that describes what your project will be about. It is enough for each team to submit one single project description. Just put all team members' names.
+    The document needs to contain the following information:
+
+    Research questions: What are the main questions that you want to answer, the main language phenomena you want to address, or the main ideas you want to explore?
+
+    Method: What are the relevant words, multi-word expressions, or constructions you need to analyze? What descriptive data analyses do you plan to do? Do you plan to do statistical significance tests, and do you know already which ones will be the right ones? (Yes, I know you will not have worked out every detail at this point, but strive to work out as many as you can.)
+
+    Data: It is vital that you figure out as early as possible what data you can use. Is there enough data? Is it freely available? Do you have to contact someone to get it?
+
+    Splitting the work: Who in the team will be doing what?
+
+    Intermediate report:
+    Submit the following document, which should be the same for the whole team: a 1-2 page document (single-spaced, single column) that describes what the status of your project is at this point. This is a revised version of your initial project description, which needs to take into account the feedback you got on the initial description.
+
+        Motivation: Why should readers be interested in your study? Please devote half a page to this. 
+
+        Research questions: any changes?
+
+    Method: any changes?
+
+    Status:
+
+        Describe the data that was obtained: source, size, anything else that is relevant
+
+        Describe at least two (smaller, and preliminary) concrete results that you have at this point
+
+In addition, each team member submits a short (half page) document describing their individual contribution and reflecting on what they learned in the project so far.
+
+    Short presentation:
+    This is a short presentation to the class. You should discuss:
+
+    Research questions/linguistic phenomena/main questions you are addressing
+
+    Motivation: Why is this relevant? (Spend a lot of time on the research questions and their relevance. Describing the big picture is important!)
+
+    Data: source, size (say how many words overall you have)
+
+    Results
+
+You will need to prepare slides for this, which you submit to the instructor ahead of time.
+
+It is okay if you don't have all results in place at this point. This does not lead to points being taken away for the presentation.
+
+    Final report:
+    Submit the following document, which should be the same for the whole team:
+    A 5-6 page document (single-spaced, single column) that describes the results of your project. This is a revised version of your intermediate project description. It needs to contain the following information:
+
+    Motivation
+
+    Research questions/linguistic phenomena covered/main ideas pursued
+
+    Data: source, size, other relevant statistics
+
+    Method
+
+    Findings
+
+If you build on previous work, you need to discuss it, and give references.
+	Published papers (at conferences, in journals) go into the references list at the end of the paper. Links to blog posts and the like go in a footnote. Also, links to websites containing data go in a footnote, not in the references list.
+
+You need to take into account the feedback that you got on the Initial project description and Intermediate report.
+
+In addition, each team member submits a short (half page) document describing their individual contribution and reflecting on what they learned in the project.
+
+Course Schedule Topics
+
+Week 1: Introduction
+January 14:  Introduction:
+ 	What can you find out about humans and the  way they use language, just by counting (specific) words? 
+January 16: Foundations of programming 
+We'll be using Jupyter Notebooks in class. To use a  "Code for download" file, download it to your computer. Your computer will probably complain that it doesn't know how to open the file. This is not a problem, ignore it. Then you have multiple options for how to open the file: (1) If you have Anaconda on your computer, you can open the file with notebooks. (2) If you have Anaconda, or another python, on your system, you can open a terminal, go to the directory with the notebook, and type the command jupyter notebook, or the command python -m jupyterlab. Or (3) if you have a Google colab account, you can open the file online in colab by selecting "Upload" from the left-hand side menu. 
+Code for download: First steps in Python
+Code for download: a notebook to check your installation
+Code for download: how to use Jupyter notebooks
+Week 2: Examples of text analysis
+	Jan 21: No lecture, inclement weather
+	Jan 23: Guest lecture: Kyle Mahowald
+Week 3: Exploring and visualizing data
+	Jan 28: Exploring and visualizing data: the Inaugural Address collection
+Code for download: Exploring and visualizing data
+Data set to go with it
+	Jan 30: Exploring and visualizing data, continued
+	Food for Thought 1 due
+Week 4: Python basics
+	Feb 4: Python programming basics: conditions, lists, and loops
+Code for download: conditions, list, and loops
+	Feb 6: Guest lecture
+	Homework 1 due
+Week 5: Python basics
+	Feb 11: We discuss your project ideas in class
+	Feb 13: Finishing up loops, then:
+ 	Python basics: dictionaries for word counting
+Code for download: dictionaries
+Code for download:  accessing files from Python (we'll only need the first part of the notebook for now)
+Week 6: Python spreadsheets
+     Feb 18: Python dictionaries, and file access, continued. Then: Making your own Python spreadsheets from word counts
+ Code for download: defaultdicts, and dictionaries as attribute-value-matrices
+Code for download: Making Pandas data frames
+
+Feb 20: Continuing on: Making your own Python spreadsheets from word counts. Then:  tools for text processing: : Splitting text into sentences and words, mapping words to their base form, filtering away stopwords, labeling words with their part of speech
+Code for download: Making Pandas data frames
+Code for download: text processing
+	Initial project description due
+Week 7: Text processing
+Feb 25: More tools for text processing, more on pandas, and using string patterns
+Code for download: text processing
+
+Feb 27: Guest lecture
+	Homework 2 due
+Week 8: Identifying themes in text: tf/idf and clustering
+	Mar 4:  Identifying important words in a text: tf/idf and pointwise mutual information for computing word importance weights
+Code for download: weighting words by importance
+	Mar 6: Clustering to identify main themes in a text
+Code for download: Clustering for exploratory data analysis
+A quick overview of several notebooks that we didn’t have time to do but that may be helpful for your class projects:
+Code for download: advanced methods for pandas data frames
+Code for download: regular expressions 
+Code for download: Accessing text data, and different writing systems
+Code for download: Accessing multiple files in a directory 
+
+
+	Food for Thought 2 due
+Week 9: Topic modeling
+	Mar 11: Topic modeling: Characterizing the topics of a text in a kind of wordle
+Code for download: topic modeling
+	Mar 13: Topic modeling, continued
+Week 10: Spring break
+Week 11: Models of context similarity: distributional models 
+	Mar 25: Context similarity: what it is, how to obtain distributional models (models of context similarity), and how to use them to analyze groups of words
+Code for download: Distributional models in gensim
+	Mar 27: Similarity of words in context
+Code for download: Contextualized embeddings and how to use them
+
+
+Week 12: Statistics: Probabilities and hypothesis testing
+   	April 1: Descriptive statistics, probabilities and hypothesis testing
+Code for download: Central tendency and spread
+Code for download: probability distributions in Python
+Code for download: hypothesis testing
+
+Food for Thought 3 due
+	April 3: Hypothesis testing, the t-test, and the chi-squared test
+Code for download: the t-test
+Code for download: the chi-squared test
+Project progress report due
+Week 13: Statistics: Correlation and regression
+	April 8 Correlation and regression
+Code for download: correlation
+Code for download: linear regression
+Code for download: more linear regression
+
+
+April 10: Guest speaker: Steve Wechsler
+Homework 3 due
+Week 14: Regression, and more Python things
+	April 15: Logistic regression
+Code for download: logistic regression
+Code for download: model comparison
+	Food for Thought 4 due
+	April 17: More Python tricks
+Code for download: Python list comprehensions
+Code for download: making your own functions in Python
+Code for download: a short peek at making complex objects
+Code for download: error handling in Python

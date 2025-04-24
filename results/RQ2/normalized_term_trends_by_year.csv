@@ -1,108 +1,108 @@
 year,party,term,count_per_1000
-2017,Democratic,amnesty,0.11052166224580019
-2017,Democratic,asylum,0.05224138095533626
-2017,Democratic,border,0.31586208893691387
+2017,Democratic,amnesty,0.08741258741258742
+2017,Democratic,asylum,0.04253664030872715
+2017,Democratic,border,0.2817596332001869
 2017,Democratic,border crisis,0.0
-2017,Democratic,border security,0.055257650452389055
+2017,Democratic,border security,0.059458610671761836
 2017,Democratic,caravan,0.0
-2017,Democratic,cbp,0.0
+2017,Democratic,cbp,0.005969080164746612
 2017,Democratic,child detention,0.0
-2017,Democratic,citizenship,0.27062806936581474
-2017,Democratic,daca,2.0881422412973683
-2017,Democratic,deportation,0.36288991527206804
-2017,Democratic,detention,0.033417533454129074
-2017,Democratic,dreamer,1.5920017834940772
+2017,Democratic,citizenship,0.21404220031659896
+2017,Democratic,daca,1.6570823819615619
+2017,Democratic,deportation,0.28823139017741495
+2017,Democratic,detention,0.07760543296390852
+2017,Democratic,dreamer,1.2629197212951524
 2017,Democratic,family separation,0.0
-2017,Democratic,ice,0.19442336084135928
+2017,Democratic,ice,0.17277492709961983
 2017,Democratic,illegal alien,0.0
-2017,Democratic,immigrant,0.7523767867450541
-2017,Democratic,immigration,0.984761382776376
-2017,Democratic,mexico,0.7197917106459472
-2017,Democratic,migrant,0.7523767867450541
-2017,Democratic,path to citizenship,0.005333760034136064
-2017,Democratic,refugee,0.5511610878132522
-2017,Democratic,unauthorized,0.023687389234319265
-2017,Democratic,undocumented,0.15427995575963063
-2017,Democratic,visa,0.13218263731268082
-2017,Democratic,wall,0.46419087435346956
-2017,Independent,amnesty,0.0
+2017,Democratic,immigrant,0.63365155715632
+2017,Democratic,immigration,0.8071906731139478
+2017,Democratic,mexico,0.7087332022563407
+2017,Democratic,migrant,0.639879509521534
+2017,Democratic,path to citizenship,0.004218519299725796
+2017,Democratic,refugee,0.4359183149068449
+2017,Democratic,unauthorized,0.018734571485325237
+2017,Democratic,undocumented,0.12202141955534422
+2017,Democratic,visa,0.10454444951093846
+2017,Democratic,wall,0.37114071772135493
+2017,Independent,amnesty,0.5716004813477739
 2017,Independent,asylum,0.0
-2017,Independent,border,0.0
+2017,Independent,border,0.15042117930204574
 2017,Independent,border crisis,0.0
 2017,Independent,border security,0.0
 2017,Independent,caravan,0.0
-2017,Independent,cbp,0.0
+2017,Independent,cbp,0.030084235860409144
 2017,Independent,child detention,0.0
-2017,Independent,citizenship,0.0
-2017,Independent,daca,0.0
+2017,Independent,citizenship,0.12033694344163658
+2017,Independent,daca,0.6919374247894104
 2017,Independent,deportation,0.0
 2017,Independent,detention,0.0
-2017,Independent,dreamer,0.0
+2017,Independent,dreamer,0.030084235860409144
 2017,Independent,family separation,0.0
-2017,Independent,ice,0.0
-2017,Independent,illegal alien,0.0
-2017,Independent,immigrant,1.141552511415525
-2017,Independent,immigration,0.0
-2017,Independent,mexico,0.0
-2017,Independent,migrant,1.141552511415525
-2017,Independent,path to citizenship,0.0
+2017,Independent,ice,0.09025270758122744
+2017,Independent,illegal alien,0.06016847172081829
+2017,Independent,immigrant,0.7610350076103499
+2017,Independent,immigration,0.24067388688327315
+2017,Independent,mexico,0.12033694344163658
+2017,Independent,migrant,0.7610350076103499
+2017,Independent,path to citizenship,0.06016847172081829
 2017,Independent,refugee,0.0
 2017,Independent,unauthorized,0.0
 2017,Independent,undocumented,0.0
 2017,Independent,visa,0.0
-2017,Independent,wall,0.2334267040149393
-2017,Republican,amnesty,0.0005037808754704054
-2017,Republican,asylum,0.000568542849311749
-2017,Republican,border,1.0055615591915255
+2017,Independent,wall,0.2157862743974445
+2017,Republican,amnesty,0.004186892371163537
+2017,Republican,asylum,0.01230083334389757
+2017,Republican,border,0.7075165699246899
 2017,Republican,border crisis,0.0
-2017,Republican,border security,0.12272340043933049
+2017,Republican,border security,0.13126502867573986
 2017,Republican,caravan,0.0
-2017,Republican,cbp,0.16124074148040698
+2017,Republican,cbp,0.10543721783880707
 2017,Republican,child detention,0.0
-2017,Republican,citizenship,0.19955819114948367
-2017,Republican,daca,0.5064572321098186
-2017,Republican,deportation,0.12244365014652053
-2017,Republican,detention,0.014829942667983737
-2017,Republican,dreamer,0.49929143875902365
+2017,Republican,citizenship,0.28512819045352816
+2017,Republican,daca,0.33013759466080855
+2017,Republican,deportation,0.08075184927210953
+2017,Republican,detention,0.026395759826207774
+2017,Republican,dreamer,0.3236362172689652
 2017,Republican,family separation,0.0
-2017,Republican,ice,0.3553479049487806
-2017,Republican,illegal alien,0.03337783711615487
-2017,Republican,immigrant,0.2523676180357894
-2017,Republican,immigration,0.42765233408549636
-2017,Republican,mexico,0.13450667773907718
-2017,Republican,migrant,0.32208134369846786
+2017,Republican,ice,0.25354655756567784
+2017,Republican,illegal alien,0.021405746389987355
+2017,Republican,immigrant,0.1922412509536739
+2017,Republican,immigration,0.5553787714238579
+2017,Republican,mexico,0.19310420097087927
+2017,Republican,migrant,0.2315957735051859
 2017,Republican,path to citizenship,0.0
-2017,Republican,refugee,0.018600594898681783
-2017,Republican,unauthorized,0.02861259891779472
-2017,Republican,undocumented,0.01454451037385517
-2017,Republican,visa,0.003781359784342103
-2017,Republican,wall,0.11270356125161514
-2018,Democratic,amnesty,0.14391692506039439
-2018,Democratic,asylum,0.05221670415271533
-2018,Democratic,border,0.7424721225364956
+2017,Republican,refugee,0.03677895324196506
+2017,Republican,unauthorized,0.020078993270809798
+2017,Republican,undocumented,0.0145781895165454
+2017,Republican,visa,0.01881104486953193
+2017,Republican,wall,0.09089724317444764
+2018,Democratic,amnesty,0.12146180200132575
+2018,Democratic,asylum,0.04406941697995124
+2018,Democratic,border,0.6992534024704795
 2018,Democratic,border crisis,0.0
-2018,Democratic,border security,0.22523903999555514
+2018,Democratic,border security,0.19466115307450635
 2018,Democratic,caravan,0.0
-2018,Democratic,cbp,0.029613854638856497
+2018,Democratic,cbp,0.059441770691785766
 2018,Democratic,child detention,0.0
-2018,Democratic,citizenship,0.2824491836787482
-2018,Democratic,daca,0.7799880602757089
-2018,Democratic,deportation,0.2121344925535638
-2018,Democratic,detention,0.05045445665904326
-2018,Democratic,dreamer,1.679306843771855
+2018,Democratic,citizenship,0.2406619948211929
+2018,Democratic,daca,0.7389719324303541
+2018,Democratic,deportation,0.1851232178197627
+2018,Democratic,detention,0.10371487055824737
+2018,Democratic,dreamer,1.4723920471492975
 2018,Democratic,family separation,0.0
-2018,Democratic,ice,0.03356806964267181
-2018,Democratic,illegal alien,0.0009780370343616077
-2018,Democratic,immigrant,0.6381660518052864
-2018,Democratic,immigration,0.9954962952105696
-2018,Democratic,mexico,0.2223184011206944
-2018,Democratic,migrant,0.685644863327134
-2018,Democratic,path to citizenship,0.050483195380351925
-2018,Democratic,refugee,0.6549840924509427
-2018,Democratic,unauthorized,0.019014915581871825
-2018,Democratic,undocumented,0.08592073337642131
-2018,Democratic,visa,0.09882826568603757
-2018,Democratic,wall,0.6133192919131909
+2018,Democratic,ice,0.028807445270260485
+2018,Democratic,illegal alien,0.0008254355112697256
+2018,Democratic,immigrant,0.5568572160352229
+2018,Democratic,immigration,0.8553899423889283
+2018,Democratic,mexico,0.4124300423119888
+2018,Democratic,migrant,0.5969279860430233
+2018,Democratic,path to citizenship,0.04260638475363035
+2018,Democratic,refugee,0.5673792430153405
+2018,Democratic,unauthorized,0.016048049320870547
+2018,Democratic,undocumented,0.07708045458034375
+2018,Democratic,visa,0.08493018362635874
+2018,Democratic,wall,0.5219058575886084
 2018,Independent,amnesty,0.0
 2018,Independent,asylum,0.0
 2018,Independent,border,0.0
@@ -111,154 +111,154 @@ year,party,term,count_per_1000
 2018,Independent,caravan,0.0
 2018,Independent,cbp,0.0
 2018,Independent,child detention,0.0
-2018,Independent,citizenship,0.21105951878429716
-2018,Independent,daca,0.6745923706284546
-2018,Independent,deportation,0.21105951878429716
+2018,Independent,citizenship,0.16884761502743773
+2018,Independent,daca,0.5396738965027637
+2018,Independent,deportation,0.16884761502743773
 2018,Independent,detention,0.0
-2018,Independent,dreamer,0.5125140430667279
+2018,Independent,dreamer,0.4100112344533823
 2018,Independent,family separation,0.0
-2018,Independent,ice,0.24490595611285265
+2018,Independent,ice,0.19592476489028213
 2018,Independent,illegal alien,0.0
-2018,Independent,immigrant,0.4898119122257053
-2018,Independent,immigration,0.23608392940646705
-2018,Independent,mexico,5.1020408163265305
-2018,Independent,migrant,0.4898119122257053
+2018,Independent,immigrant,0.39184952978056425
+2018,Independent,immigration,0.18886714352517364
+2018,Independent,mexico,4.116285689533545
+2018,Independent,migrant,0.39184952978056425
 2018,Independent,path to citizenship,0.0
-2018,Independent,refugee,0.1469435736677116
+2018,Independent,refugee,0.11755485893416928
 2018,Independent,unauthorized,0.0
-2018,Independent,undocumented,0.1469435736677116
+2018,Independent,undocumented,0.11755485893416928
 2018,Independent,visa,0.0
 2018,Independent,wall,0.0
-2018,Republican,amnesty,0.13224038627192852
-2018,Republican,asylum,0.01850396387764367
-2018,Republican,border,1.1665625145795735
-2018,Republican,border crisis,0.002777500027775
-2018,Republican,border security,0.3236481597710204
+2018,Republican,amnesty,0.09879693377734135
+2018,Republican,asylum,0.01439338557293168
+2018,Republican,border,1.2520303657633047
+2018,Republican,border crisis,0.0018931219094784828
+2018,Republican,border security,0.40385161579527923
 2018,Republican,caravan,0.0
-2018,Republican,cbp,0.07022792906249309
+2018,Republican,cbp,0.05952729481722079
 2018,Republican,child detention,0.0
-2018,Republican,citizenship,0.10643088955724377
-2018,Republican,daca,0.6058762147690963
-2018,Republican,deportation,0.020912863218910123
-2018,Republican,detention,0.04726814684797388
-2018,Republican,dreamer,0.3273718131904745
-2018,Republican,family separation,0.007862447761264857
-2018,Republican,ice,0.17986940052795153
-2018,Republican,illegal alien,0.09562281623488729
-2018,Republican,immigrant,0.6543069686181636
-2018,Republican,immigration,1.396916010013132
-2018,Republican,mexico,0.4753260489281553
-2018,Republican,migrant,0.6636043882724935
-2018,Republican,path to citizenship,0.015185769273787078
-2018,Republican,refugee,0.08269823229393779
-2018,Republican,unauthorized,0.007137856716814293
-2018,Republican,undocumented,0.06705877760994791
-2018,Republican,visa,0.2047333984622849
-2018,Republican,wall,0.129009340658521
-2019,Democratic,amnesty,0.028726356030566603
-2019,Democratic,asylum,0.08311212826350359
-2019,Democratic,border,0.9677492661072143
+2018,Republican,citizenship,0.11487557636068245
+2018,Republican,daca,0.7832091980011889
+2018,Republican,deportation,0.020735868818420815
+2018,Republican,detention,0.03940766629384451
+2018,Republican,dreamer,0.2977405531530035
+2018,Republican,family separation,0.005358981807429281
+2018,Republican,ice,0.12969330623525746
+2018,Republican,illegal alien,0.06800735217787976
+2018,Republican,immigrant,0.5996132504184404
+2018,Republican,immigration,1.5697309551706695
+2018,Republican,mexico,0.410004240694359
+2018,Republican,migrant,0.612309636845248
+2018,Republican,path to citizenship,0.016216675531928636
+2018,Republican,refugee,0.05764451283092758
+2018,Republican,unauthorized,0.005393681080136311
+2018,Republican,undocumented,0.060344719602945185
+2018,Republican,visa,0.18677149682531563
+2018,Republican,wall,0.17266375956968208
+2019,Democratic,amnesty,0.024542906123202535
+2019,Democratic,asylum,0.07620763887612132
+2019,Democratic,border,0.9953950040474696
 2019,Democratic,border crisis,0.0
-2019,Democratic,border security,0.3098940955090052
-2019,Democratic,caravan,0.00025818231389186083
-2019,Democratic,cbp,0.01376710578344339
+2019,Democratic,border security,0.31052397999932785
+2019,Democratic,caravan,0.0002205829477911044
+2019,Democratic,cbp,0.013971639938000192
 2019,Democratic,child detention,0.0
-2019,Democratic,citizenship,0.11007263109284256
-2019,Democratic,daca,0.012119699070288965
-2019,Democratic,deportation,0.1450691026609636
-2019,Democratic,detention,0.10816691946490638
-2019,Democratic,dreamer,0.02168959941077392
-2019,Democratic,family separation,0.03248555436244666
-2019,Democratic,ice,0.06295507229138352
-2019,Democratic,illegal alien,0.0
-2019,Democratic,immigrant,0.583023994585703
-2019,Democratic,immigration,0.37949455534011844
-2019,Democratic,mexico,0.5862226947043238
-2019,Democratic,migrant,0.6486901139822454
-2019,Democratic,path to citizenship,0.044792020657456626
-2019,Democratic,refugee,0.4995308725941056
-2019,Democratic,unauthorized,0.044231549467104364
-2019,Democratic,undocumented,0.0115841275162682
-2019,Democratic,visa,0.19237232109713043
-2019,Democratic,wall,0.5949649942396517
+2019,Democratic,citizenship,0.09549148560527855
+2019,Democratic,daca,0.012692124425878424
+2019,Democratic,deportation,0.12394253431227958
+2019,Democratic,detention,0.11563783007827352
+2019,Democratic,dreamer,0.0361287369432492
+2019,Democratic,family separation,0.027754648387333068
+2019,Democratic,ice,0.05480850766051553
+2019,Democratic,illegal alien,0.0042138619201726
+2019,Democratic,immigrant,0.553820861481862
+2019,Democratic,immigration,0.4034617405072492
+2019,Democratic,mexico,0.7080378415215436
+2019,Democratic,migrant,0.613912012189677
+2019,Democratic,path to citizenship,0.03826891085297265
+2019,Democratic,refugee,0.4322205658782917
+2019,Democratic,unauthorized,0.05051693129495443
+2019,Democratic,undocumented,0.011891800936594569
+2019,Democratic,visa,0.1665741669676385
+2019,Democratic,wall,0.5497279055973621
 2019,Independent,amnesty,0.0
-2019,Independent,asylum,0.04360148245040331
-2019,Independent,border,0.1630757954731034
+2019,Independent,asylum,0.036334568708669426
+2019,Independent,border,0.13589649622758618
 2019,Independent,border crisis,0.0
-2019,Independent,border security,0.1194743130227001
-2019,Independent,caravan,0.03914660403210022
+2019,Independent,border security,0.09956192751891675
+2019,Independent,caravan,0.032622170026750184
 2019,Independent,cbp,0.0
 2019,Independent,child detention,0.0
-2019,Independent,citizenship,0.04360148245040331
-2019,Independent,daca,0.08720296490080662
+2019,Independent,citizenship,0.036334568708669426
+2019,Independent,daca,0.07266913741733885
 2019,Independent,deportation,0.0
-2019,Independent,detention,0.1194743130227001
+2019,Independent,detention,0.1609492817239505
 2019,Independent,dreamer,0.0
 2019,Independent,family separation,0.0
-2019,Independent,ice,0.04360148245040331
+2019,Independent,ice,0.036334568708669426
 2019,Independent,illegal alien,0.0
-2019,Independent,immigrant,0.7620347168725345
-2019,Independent,immigration,0.20464277699710726
-2019,Independent,mexico,0.03914660403210022
-2019,Independent,migrant,0.879474528968835
+2019,Independent,immigrant,0.6350289307271121
+2019,Independent,immigration,0.1705356474975894
+2019,Independent,mexico,0.40094629525695274
+2019,Independent,migrant,0.7328954408073626
 2019,Independent,path to citizenship,0.0
-2019,Independent,refugee,0.13080444735120994
-2019,Independent,unauthorized,0.0
+2019,Independent,refugee,0.10900370612600829
+2019,Independent,unauthorized,0.061387354205033766
 2019,Independent,undocumented,0.0
 2019,Independent,visa,0.0
-2019,Independent,wall,0.28401303690747054
-2019,Republican,amnesty,0.0
-2019,Republican,asylum,0.06323556341262766
-2019,Republican,border,2.268027309887349
-2019,Republican,border crisis,0.000377146719125261
-2019,Republican,border security,0.4793934752648859
-2019,Republican,caravan,0.004553901995558968
-2019,Republican,cbp,0.09612131633031358
+2019,Independent,wall,0.23667753075622544
+2019,Republican,amnesty,0.0037648744082980925
+2019,Republican,asylum,0.06658365108619561
+2019,Republican,border,2.8221383164415204
+2019,Republican,border crisis,0.0009390795649841674
+2019,Republican,border security,0.6927859786406267
+2019,Republican,caravan,0.003436083301212389
+2019,Republican,cbp,0.13823747039914805
 2019,Republican,child detention,0.0
-2019,Republican,citizenship,0.02963367965090694
-2019,Republican,daca,0.020993157740571568
-2019,Republican,deportation,0.0009842267515842997
-2019,Republican,detention,0.07893451924380834
-2019,Republican,dreamer,0.0061449420305348616
-2019,Republican,family separation,0.03684467804671647
-2019,Republican,ice,0.28007948043583514
-2019,Republican,illegal alien,0.00022856265176560077
-2019,Republican,immigrant,0.23157746408179092
-2019,Republican,immigration,0.4609453533530837
-2019,Republican,mexico,0.6829216395276797
-2019,Republican,migrant,0.40841084178034975
-2019,Republican,path to citizenship,0.0004233556865135812
-2019,Republican,refugee,0.048664101021229055
-2019,Republican,unauthorized,0.012622197771969936
-2019,Republican,undocumented,0.04455042503806856
-2019,Republican,visa,0.05618267511255466
-2019,Republican,wall,0.3118006880332115
-2020,Democratic,amnesty,0.0
-2020,Democratic,asylum,0.20212048382172823
-2020,Democratic,border,0.49162641359404624
+2019,Republican,citizenship,0.02441758407264288
+2019,Republican,daca,0.06833697706643432
+2019,Republican,deportation,0.0008252919367883279
+2019,Republican,detention,0.06418499305181675
+2019,Republican,dreamer,0.006306217901159264
+2019,Republican,family separation,0.020530367866827087
+2019,Republican,ice,0.17556450022545506
+2019,Republican,illegal alien,0.022388106272009628
+2019,Republican,immigrant,0.1888415078054393
+2019,Republican,immigration,0.4516034198779633
+2019,Republican,mexico,0.6997474555554228
+2019,Republican,migrant,0.31408919121255663
+2019,Republican,path to citizenship,0.000908825905417864
+2019,Republican,refugee,0.06741263124068057
+2019,Republican,unauthorized,0.012173669353679351
+2019,Republican,undocumented,0.028435028152895163
+2019,Republican,visa,0.03904212079049367
+2019,Republican,wall,0.5290588745008047
+2020,Democratic,amnesty,0.0016587186398507152
+2020,Democratic,asylum,0.16276315505542627
+2020,Democratic,border,0.4564035624830302
 2020,Democratic,border crisis,0.0
-2020,Democratic,border security,0.058502527980584876
+2020,Democratic,border security,0.04627720242649906
 2020,Democratic,caravan,0.0
-2020,Democratic,cbp,0.12294174663285791
+2020,Democratic,cbp,0.16814551181287668
 2020,Democratic,child detention,0.0
-2020,Democratic,citizenship,0.06348685577692018
-2020,Democratic,daca,0.04795990131696575
-2020,Democratic,deportation,0.08491106587126131
-2020,Democratic,detention,0.22657858997687594
-2020,Democratic,dreamer,0.027235669624448976
-2020,Democratic,family separation,0.007932317528864773
-2020,Democratic,ice,0.1511394957867244
-2020,Democratic,illegal alien,0.0
-2020,Democratic,immigrant,0.4858607559872707
-2020,Democratic,immigration,0.1834430383748702
-2020,Democratic,mexico,0.8966145109725061
-2020,Democratic,migrant,0.711138749565424
-2020,Democratic,path to citizenship,0.007104571201923349
-2020,Democratic,refugee,0.34366337711445094
-2020,Democratic,unauthorized,0.04485421870145706
-2020,Democratic,undocumented,0.05465531409303303
-2020,Democratic,visa,0.039344847177908135
-2020,Democratic,wall,0.319335608562405
+2020,Democratic,citizenship,0.055616967890760774
+2020,Democratic,daca,0.03727169473775624
+2020,Democratic,deportation,0.06598802833423736
+2020,Democratic,detention,0.1760839327820293
+2020,Democratic,dreamer,0.021166006108143204
+2020,Democratic,family separation,0.007119311780207443
+2020,Democratic,ice,0.12837143393017084
+2020,Democratic,illegal alien,0.0035413272894680927
+2020,Democratic,immigrant,0.418100647540715
+2020,Democratic,immigration,0.19871906880195625
+2020,Democratic,mexico,0.849846793539132
+2020,Democratic,migrant,0.5997844708001048
+2020,Democratic,path to citizenship,0.005521266762637574
+2020,Democratic,refugee,0.27192056119731955
+2020,Democratic,unauthorized,0.03485813567656092
+2020,Democratic,undocumented,0.0444279577804388
+2020,Democratic,visa,0.03445450976039219
+2020,Democratic,wall,0.27592706513545
 2020,Independent,amnesty,0.0
 2020,Independent,asylum,0.0
 2020,Independent,border,0.0
@@ -285,58 +285,58 @@ year,party,term,count_per_1000
 2020,Independent,undocumented,0.0
 2020,Independent,visa,0.0
 2020,Independent,wall,0.11967448539971279
-2020,Republican,amnesty,0.005079752108097124
-2020,Republican,asylum,0.008225067008664846
-2020,Republican,border,0.7035871023059918
+2020,Republican,amnesty,0.0034411314900434837
+2020,Republican,asylum,0.046491804341046196
+2020,Republican,border,0.5840317951171717
 2020,Republican,border crisis,0.0
-2020,Republican,border security,0.0314228255404726
-2020,Republican,caravan,0.016258576399050498
-2020,Republican,cbp,0.06513063131117104
+2020,Republican,border security,0.03614915642077961
+2020,Republican,caravan,0.009698098202942403
+2020,Republican,cbp,0.06305759144597793
 2020,Republican,child detention,0.0
-2020,Republican,citizenship,0.3461963490723221
-2020,Republican,daca,0.011416392826099565
-2020,Republican,deportation,0.04536125028726073
-2020,Republican,detention,0.14455336897115112
-2020,Republican,dreamer,0.025688437458675505
+2020,Republican,citizenship,0.22695072823763882
+2020,Republican,daca,0.008965851976084476
+2020,Republican,deportation,0.027804166879077018
+2020,Republican,detention,0.21552719217644917
+2020,Republican,dreamer,0.0178755043054776
 2020,Republican,family separation,0.0
-2020,Republican,ice,0.0735588539230761
+2020,Republican,ice,0.05066911812975194
 2020,Republican,illegal alien,0.0
-2020,Republican,immigrant,0.16472426213979582
-2020,Republican,immigration,0.302468086284029
-2020,Republican,mexico,0.7642677702976485
-2020,Republican,migrant,0.20253196351800365
+2020,Republican,immigrant,0.14282710394077375
+2020,Republican,immigration,0.2735122985528806
+2020,Republican,mexico,0.7473838735523566
+2020,Republican,migrant,0.17617916570115658
 2020,Republican,path to citizenship,0.0
-2020,Republican,refugee,0.11134260395000399
-2020,Republican,unauthorized,0.01158427410650586
-2020,Republican,undocumented,0.0059324932081082846
-2020,Republican,visa,0.06269304057863899
-2020,Republican,wall,0.09035377141583523
-2021,Democratic,amnesty,0.01543306514234
-2021,Democratic,asylum,0.0361761102143388
-2021,Democratic,border,0.44711475377353554
+2020,Republican,refugee,0.09195460433108632
+2020,Republican,unauthorized,0.008838723548186983
+2020,Republican,undocumented,0.0035386801592224857
+2020,Republican,visa,0.05854083961182167
+2020,Republican,wall,0.08122210626735551
+2021,Democratic,amnesty,0.013590311095493433
+2021,Democratic,asylum,0.031856574666358044
+2021,Democratic,border,0.40731026227931083
 2021,Democratic,border crisis,0.0
-2021,Democratic,border security,0.03700688328029013
-2021,Democratic,caravan,0.0037446428522278207
-2021,Democratic,cbp,0.033432614185745606
+2021,Democratic,border security,0.03258815094831519
+2021,Democratic,caravan,0.003297521317633454
+2021,Democratic,cbp,0.029440660253119262
 2021,Democratic,child detention,0.0
-2021,Democratic,citizenship,0.18840182167058983
-2021,Democratic,daca,0.15831808472781597
-2021,Democratic,deportation,0.047017212224646686
-2021,Democratic,detention,0.08804871041777756
-2021,Democratic,dreamer,0.15341894114157842
+2021,Democratic,citizenship,0.17843788121070564
+2021,Democratic,daca,0.13941443282001703
+2021,Democratic,deportation,0.04140321673513663
+2021,Democratic,detention,0.08939037448037336
+2021,Democratic,dreamer,0.13510026160228547
 2021,Democratic,family separation,0.0
-2021,Democratic,ice,0.07258273085241984
-2021,Democratic,illegal alien,0.0031119347365047064
-2021,Democratic,immigrant,0.3452597522353941
-2021,Democratic,immigration,0.3532345700339093
-2021,Democratic,mexico,0.10386709974187905
-2021,Democratic,migrant,0.3502040791147328
-2021,Democratic,path to citizenship,0.017523188011722406
-2021,Democratic,refugee,0.13689203020413182
+2021,Democratic,ice,0.07422508624558406
+2021,Democratic,illegal alien,0.002740360439608622
+2021,Democratic,immigrant,0.3168395950283339
+2021,Democratic,immigration,0.3204977716558859
+2021,Democratic,mexico,0.09365717811893896
+2021,Democratic,migrant,0.3212845839840582
+2021,Democratic,path to citizenship,0.02796266649618058
+2021,Democratic,refugee,0.12072877209475927
 2021,Democratic,unauthorized,0.0
-2021,Democratic,undocumented,0.019371607948139618
-2021,Democratic,visa,0.03368400121026373
-2021,Democratic,wall,0.11731282599609817
+2021,Democratic,undocumented,0.017149609598399777
+2021,Democratic,visa,0.04228485982254603
+2021,Democratic,wall,0.1579220688005122
 2021,Independent,amnesty,0.0
 2021,Independent,asylum,0.0
 2021,Independent,border,0.11531365313653136
@@ -363,29 +363,29 @@ year,party,term,count_per_1000
 2021,Independent,undocumented,0.0
 2021,Independent,visa,0.0
 2021,Independent,wall,0.11531365313653136
-2021,Republican,amnesty,0.032538433046958984
-2021,Republican,asylum,0.10666666666666667
-2021,Republican,border,0.9579796072182216
+2021,Republican,amnesty,0.035839229630851184
+2021,Republican,asylum,0.18872616744957169
+2021,Republican,border,0.8584475855384652
 2021,Republican,border crisis,0.0
-2021,Republican,border security,0.34699497040420285
-2021,Republican,caravan,0.014583498220752986
-2021,Republican,cbp,0.007889429387408506
+2021,Republican,border security,0.311397617309239
+2021,Republican,caravan,0.011635769856983766
+2021,Republican,cbp,0.009563051767170316
 2021,Republican,child detention,0.0
-2021,Republican,citizenship,0.10741309641496526
-2021,Republican,daca,0.015570260801868432
-2021,Republican,deportation,0.11209384409120543
-2021,Republican,detention,0.24345261886594272
-2021,Republican,dreamer,0.01044932079414838
+2021,Republican,citizenship,0.10139264345542244
+2021,Republican,daca,0.012423080427022684
+2021,Republican,deportation,0.08943657773234476
+2021,Republican,detention,0.21057930906576372
+2021,Republican,dreamer,0.008337224037884346
 2021,Republican,family separation,0.0
-2021,Republican,ice,0.38921047351054683
-2021,Republican,illegal alien,0.04975124378109453
-2021,Republican,immigrant,0.3191842905225003
-2021,Republican,immigration,1.2904903518340125
-2021,Republican,mexico,0.7069669704412116
-2021,Republican,migrant,0.3604544258732285
+2021,Republican,ice,0.3662939189370677
+2021,Republican,illegal alien,0.03969514131470308
+2021,Republican,immigrant,0.31582098320401647
+2021,Republican,immigration,1.2185621545447434
+2021,Republican,mexico,0.67163942917009
+2021,Republican,migrant,0.3487492826859805
 2021,Republican,path to citizenship,0.0
-2021,Republican,refugee,0.007985267957575799
-2021,Republican,unauthorized,0.004363001745200699
+2021,Republican,refugee,0.006930663741784413
+2021,Republican,unauthorized,0.003481118413723962
 2021,Republican,undocumented,0.0
-2021,Republican,visa,0.05086515335491078
-2021,Republican,wall,0.20529386767051624
+2021,Republican,visa,0.04058389895338626
+2021,Republican,wall,0.16435773798083264
